@@ -19,11 +19,11 @@ The Colorado Complete Count Campaign will draw on the successful partnerships an
 5. Leverage existing resources.
 6. Encourage additional local complete count campaigns.
 
-###Time Commitment
+### Time Commitment
 * 1-2 hours monthly for scheduled meetings.
 * Additional 1 hour per month for outside forums and subcommittee meetings beginning January 2019.
 
-###Travel
+### Travel
 * Currently there is no budget for travel.
 * Meetings will be available via phone and webinar.
 
