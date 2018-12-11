@@ -1,39 +1,3 @@
-## Colorado Complete Count Campaign
- 
-### Kickoff Meeting Materials Updated 12/11/2018
-
-The Colorado Complete Count Campaign (CCC) held ist kickoff meeting on December 11, 2018.  Meeting materials are presented below.
-
-#### Presentations
-
-[Colorado: Where Everybory Counts! Natriece Bryant and Elizabeth Garner, Colorado Department of Local Affairs](https://storage.cloud.google.com/co-publicdata/DOLA%20CCC%20Meeting%2011%20Dec%202018.pdf?_ga=2.166039806.-1732879585.1519318964)
-
-[Colorado Complete Count Training.  Lily Griego, U.S. Census Bureau](https://storage.cloud.google.com/co-publicdata/Census%20Presentation%20for%20CCC%20kickoff.pdf?_ga=2.164411647.-1732879585.1519318964)
-
-
-#### Videos
-
-[State of Utah and Census 2020](http://gardner.utah.edu/demographics/2020-census/)
-
-[City of El Paso, TX. PSA](https://www.amazon.com/clouddrive/share/ybZgkseXeNyYXDmlskL9Un4bGnxEIe0DYWilJz9nR5x/jyYNwqm9TwWeMU0aM5VvMw?_encoding=UTF8&*Version*=1&*entries*=0&mgh=1)
-
-#### Supporting Materials
-
-[What is a CCC?](https://storage.cloud.google.com/co-publicdata/CCC2020%20Flyer%20-%20What%20is%20CCC.pdf?_ga=2.132116815.-1732879585.1519318964)
-
-[The 2020 Census at a Glance](http://lvpc.org/pdf/P+Pizza/2020%20Census%20flyer.pdf)
-
-[Counting Young Children in the 2020 Census](https://files.buildthefoundation.org/wp-content/uploads/2018/11/counting-young-children-in-2020-census.pdf)
-
-[Census Complete Count Committee Training Manual,  U.S. Census Bureau](https://www.census.gov/content/dam/Census/newsroom/press-kits/2018/ccc-guide-d-1280.pdf)
-
-[Counting for Dollars 2020: Colorado](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/Colorado%2008-18-17.pdf)
-
-
-
-
-
-
 
 ## Census 2020 State Complete Count Committee
 
