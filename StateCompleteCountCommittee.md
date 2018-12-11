@@ -23,7 +23,10 @@ Colorado Complete Count Training.  Lily Griego, U.S. Census Bureau
 
 [Counting Young Children in the 2020 Census](https://files.buildthefoundation.org/wp-content/uploads/2018/11/counting-young-children-in-2020-census.pdf)
 
-[Census Complete Count Committee Training Manual  U.S. Census Bureau](https://www.census.gov/content/dam/Census/newsroom/press-kits/2018/ccc-guide-d-1280.pdf)
+[Census Complete Count Committee Training Manual,  U.S. Census Bureau](https://www.census.gov/content/dam/Census/newsroom/press-kits/2018/ccc-guide-d-1280.pdf)
+
+[Counting for Dollars 2020: Colorado](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/Colorado%2008-18-17.pdf)
+
 
 What is a CCC?
 
