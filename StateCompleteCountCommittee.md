@@ -1,5 +1,5 @@
 ## Colorado Complete Count Campaign
-
+ 
 ### Kickoff Meeting Materials Updated 12/11/2018
 
 The Colorado Complete Count Campaign (CCC) held ist kickoff meeting on December 11, 2018.  Meeting materials are presented below.
