@@ -6,9 +6,9 @@ The Colorado Complete Count Campaign (CCC) held ist kickoff meeting on December 
 
 #### Presentations
 
-[Colorado: Where Everybory Counts! Natriece Bryant and Elizabeth Garner, Colorado Department of Local Affairs  ![pdf](https://storage.cloud.google.com/co-publicdata/DOLA%20CCC%20Meeting%2011%20Dec%202018.pdf?_ga=2.166039806.-1732879585.1519318964)
+[Colorado: Where Everybory Counts! Natriece Bryant and Elizabeth Garner, Colorado Department of Local Affairs](https://storage.cloud.google.com/co-publicdata/DOLA%20CCC%20Meeting%2011%20Dec%202018.pdf?_ga=2.166039806.-1732879585.1519318964)
 
-[Colorado Complete Count Training.  Lily Griego, U.S. Census Bureau  ![pdf](https://storage.cloud.google.com/co-publicdata/Census%20Presentation%20for%20CCC%20kickoff.pdf?_ga=2.164411647.-1732879585.1519318964)
+[Colorado Complete Count Training.  Lily Griego, U.S. Census Bureau](https://storage.cloud.google.com/co-publicdata/Census%20Presentation%20for%20CCC%20kickoff.pdf?_ga=2.164411647.-1732879585.1519318964)
 
 
 #### Videos
